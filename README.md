@@ -1,6 +1,6 @@
 # C++ Ray Tracer
 
-A C++ ray tracer developed as a Computer Graphics project. The project implements core ray tracing concepts including camera rays, object intersections, lighting, shadows, Blinn-Phong shading, and recursive mirror reflections.
+A C++ ray tracer built to practice core computer graphics concepts.. The project implements core ray tracing concepts including camera rays, object intersections, lighting, shadows, Blinn-Phong shading, and recursive mirror reflections.
 
 ---
 
